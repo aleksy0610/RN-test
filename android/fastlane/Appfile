@@ -1,0 +1,2 @@
+json_key_file("~/APPS/REACT_NATIVE/aleksytest/pc-api-8509284029377157939-469-45472e283330.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.aleksytest.app") # e.g. com.krausefx.app
